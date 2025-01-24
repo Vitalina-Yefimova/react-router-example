@@ -68,3 +68,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+useEffect — это хук в React, который позволяет выполнять побочные эффекты в функциональных компонентах. Побочные эффекты — это операции, которые происходят вне основного потока выполнения программы, например:
+
+- Запросы к серверу
+- Изменения в DOM
+- Таймеры
+- Подписки
